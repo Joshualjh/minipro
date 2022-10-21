@@ -1,7 +1,0 @@
-me\jsk\app\board\controller\BoardController.class
-me\jsk\app\board\config\DatabaseConfig.class
-me\jsk\app\Application.class
-me\jsk\app\board\domain\ReplyVO.class
-me\jsk\app\board\domain\BoardVO.class
-me\jsk\app\board\repository\BoardMapper.class
-me\jsk\app\board\service\BoardService.class
