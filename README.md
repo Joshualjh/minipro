@@ -179,4 +179,4 @@ show grants for 'user id'@'%';
 docker build -t springio/gs-spring-boot-docker
 
 ## Gradle
-$ docker build --build-args JAR_FILE=build/libs/*.jar -t springio/gs-spring-boot-docker .# minipro
+$ docker build --build-args JAR_FILE=build/libs/*.jar -t springio/gs-spring-boot-docker .
